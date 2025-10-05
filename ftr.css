@@ -126,7 +126,7 @@ footer a:hover { color: #cb8543}
 #homehero {
     flex: 0 0 45%;
     height: 300px;
-    background-image: url(images/record2.jpg);
+    background-image: url(record2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0;
@@ -163,7 +163,7 @@ footer a:hover { color: #cb8543}
 #getting-started-hero {
     flex: 0 0 45%;
     height: 300px;
-    background-image: url(images/gettingstartedhero.jpg);
+    background-image: url(gettingstartedhero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0;

@@ -1,2 +1,2 @@
 # lmlope28.github.io
-This repository contains assignments for AME 220.
+This repository contains assignments for AME 220 completed by Lisa.

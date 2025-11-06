@@ -94,7 +94,7 @@ let colorArray = ["Navy", "Gold", "Black", "White"]
 
 let someArray = ["Ishrat", "Is", "Really", "Proud", "Of", "You"]
 
-console.log(someArray[4]);
+console.log(`The third position in the array is ${someArray[2]}.`);
 
 // call all values in the array using a loop 
 
@@ -116,4 +116,4 @@ else{
     ifStatement = false; 
 }
 
-console.log(`ifStatement is ${this.ifStatement}.`)
+console.log(`The value of ifStaement is ${ifStatement}.`)

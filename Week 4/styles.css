@@ -312,7 +312,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/initial-letter*/
         margin: 0 auto; /* this was the culprit!!! <-- check your margins when you're trying to do anything! */ 
         gap: 20px; /* here is where I think the sound cuts off?*/ 
 
-        padding: 0px; 
+        padding-top: 72px; 
         text-align: center;
         font-size: 3rem;
         font-style: normal;

@@ -22,8 +22,8 @@ document.getElementById("menu").addEventListener("click", hideShow);
         else{
             navStyleHideShow.style.display = "block";
             content.style.position = "absolute";
-            content.style.left = "200px";
-            content.style.width = "calc(100% - 200px)";
+            content.style.left = "24vw";
+            content.style.width = "calc(100% - 24vw)";
             isShown = true;
         }
 
